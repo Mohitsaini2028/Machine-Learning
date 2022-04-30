@@ -1,3 +1,4 @@
 # Machine-Learning Programs
 
-`CNN`, `ANN`
+contain programs for `CNN`, `ANN` , `Classification` & `Regression` Models.
+ 
